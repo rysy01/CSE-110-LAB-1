@@ -1,1 +1,29 @@
-
+body {
+    font-size: xx-large;
+}
+h1 {
+    scroll-margin-top: 3em;
+}
+ul{
+    color:#182b49;
+}
+#navbar{
+    position:sticky;
+    top: 0;
+    overflow:hidden;
+    background-color: white;
+}
+.section1 {
+    display: inline-block;
+    width: 100%;
+    background-color:rgb(245, 240, 230);
+}
+.section2{
+    display: inline-block;
+    width:100%;
+    background-image: url("https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg");
+    color: white
+}
+p.section2{
+    color:white;
+}
